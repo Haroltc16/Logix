@@ -1,0 +1,2 @@
+# Logix
+Sistema de inventarios
